@@ -1,0 +1,25 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: garamond, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #f6f7eb;
+    color: #393e41;
+    border-bottom: 6px solid #e94f37;
+}
